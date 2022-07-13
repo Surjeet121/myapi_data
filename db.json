@@ -1,0 +1,81 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizzahut",
+      "address": "Noida",
+      "rating": "4.6",
+      "email": "pizzahut@test.com"
+    },
+    {
+      "id": 2,
+      "name": "Hotdog",
+      "address": "Delhi",
+      "rating": "4.3",
+      "email": "doghut@test.com"
+    },
+    {
+      "id": 3,
+      "name": "Haldiram",
+      "address": "Gurugram",
+      "rating": "4.5",
+      "email": "haldiram@test.com"
+    },
+    {
+      "id": 4,
+      "name": "Burger",
+      "address": "Hydrabad",
+      "rating": "4.3",
+      "email": "burger@test.com"
+    },
+    {
+      "id": 5,
+      "name": "Popcorn",
+      "address": "Karnatka",
+      "rating": "4.4",
+      "email": "popcorn@test.com"
+    },
+    {
+      "name": "KFC",
+      "email": "kfc1223@gmail.com",
+      "rating": "4.6",
+      "address": "Noida city",
+      "id": 6
+    },
+    {
+      "name": "MC donald",
+      "email": "mcdonald121@test.com",
+      "rating": "4.3",
+      "address": "Hissar,Haryana",
+      "id": 7
+    },
+    {
+      "name": "Oyo hotel",
+      "email": "oyo_hotel@test.com",
+      "rating": "4.4",
+      "address": "South Delhi",
+      "id": 8
+    },
+    {
+      "name": "Alisha palace",
+      "email": "alisha121@test.com",
+      "rating": "4.0",
+      "address": "Solapur",
+      "id": 9
+    },
+    {
+      "name": "Shiv palace",
+      "email": "shiva@test.com",
+      "rating": "4.3",
+      "address": "Jharkhand,Ranchi",
+      "id": 10
+    },
+    {
+      "name": "Haldiram",
+      "email": "haldi@test.com",
+      "rating": "4.0",
+      "address": "Gurgaon",
+      "id": 11
+    }
+  ]
+}
